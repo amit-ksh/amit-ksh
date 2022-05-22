@@ -31,15 +31,9 @@
 
 # 📊GitHub Stats :
 
-<!--> Github Stats <!-->
-
 ![](https://github-readme-stats.vercel.app/api?username=amit-ksh&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<!--> Streak <!-->
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amit-ksh&theme=vue-dark&hide_border=false)
-
-<!--> Most Used Languages <!-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-ksh&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
