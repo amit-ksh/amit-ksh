@@ -2,7 +2,7 @@
 <h3 align="center">A student and passionate web developer from India.</h3>
 
 <div align="center">
-<a href="https://linkedin.com/in/ak-sha" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="amit-ksh" height="25px" /></a>
+<a href="https://linkedin.com/in/amit-ksh" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="amit-ksh" height="25px" /></a>
 <a href="https://twitter.com/amit__ksh" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="amit_ksh" height="25px" /></a>
 <a href="https://codepen.io/amit-ksh" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-%230077B5.svg?logo=codepen&logoColor=white&color=black" alt="amit-ksh" height="25px" /></a>
 </div><br />
