@@ -2,15 +2,15 @@
 <h3 align="center">A 21 year old student, self-motivated tech enthusiast and full-stack developer from India.</h3>
 
 <br/>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🖥️  See my portfolio at [My Portfolio](http://amit-ksh.netlify.app)
+- 🖥️  See my portfolio [here](http://amit-ksh.netlify.app)
 
 - 🌱 I’m currently learning **Machine Learning and THREE.js**
 
-- 🚀  I'm currently working on [My Portfolio](http://amit-ksh.netlify.app)
+- 🚀 I'm currently contributing to open-source projects and working on [My Portfolio](http://amit-ksh.netlify.app)
 
-- 🤝  I'm open to collaborating on any JavaScript and Python projects
+- 🤝 I'm open to collaborating on any JavaScript and Python projects
 
 - 💬 Ask me about **JavaScript and Python**
 
