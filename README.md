@@ -18,8 +18,8 @@
 <h3>🌐 Connect with me:</h3>
 <div>
   <!--  LINKEDIN  -->
-  <a href="https://linkedin.com/in/amit-ksh" target="blank"><
-    img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/amit-ksh" target="blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <!--  TWITTER  -->
   <a href="https://twitter.com/amit__ksh" target="blank">
