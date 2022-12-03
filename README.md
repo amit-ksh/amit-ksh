@@ -2,7 +2,6 @@
 <h3 align="center">A 21 year old student, self-motivated tech enthusiast and full-stack developer from India.</h3>
 
 <br/>
-<img alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 🖥️  See my portfolio [here](http://amit-ksh.netlify.app)
 
@@ -18,9 +17,18 @@
 
 <h3>🌐 Connect with me:</h3>
 <div>
-  <a href="https://linkedin.com/in/amit-ksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-ksh" height="30" width="40" />
-  <a href="https://twitter.com/amit__ksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amit__ksh"  height="30" width="40" />
-  <a href="https://codepen.io/amit-ksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amit-ksh" height="30" width="40" />
+  <!--  LINKEDIN  -->
+  <a href="https://linkedin.com/in/amit-ksh" target="blank"><
+    img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <!--  TWITTER  -->
+  <a href="https://twitter.com/amit__ksh" target="blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <!--  CODEPEN  -->
+  <a href="https://codepen.io/amit-ksh" target="blank">
+    <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+  </a>  
 </div>
 
 ---
