@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript and Python**
 
-- 📫 How to reach me [ksamit1110@gmail.com](mailto:hey.amit.ksh@gmail.com)
+- 📫 How to reach me [hey.amit.ksh@gmail.com](mailto:hey.amit.ksh@gmail.com)
 
 <h3>🌐 Connect with me:</h3>
 <div>
