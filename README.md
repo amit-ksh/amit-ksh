@@ -1,8 +1,6 @@
 # Welcome
 
-Hello guys 👋
-
-I am **Amit**, a Software Developer.
+### Hi! 👋 I am *Amit*, a Software Developer & AI & ML Enthusiast.
 
 
 - 🌱 I’m currently learning **Typescript and THREE.js**
