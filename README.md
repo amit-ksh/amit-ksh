@@ -2,7 +2,7 @@
 
 Hello guys 👋
 
-I am **Amit**, a full-stack Software Developer.
+I am **Amit**, a Software Developer.
 
 
 - 🌱 I’m currently learning **Typescript and THREE.js**
